@@ -1,0 +1,4 @@
+To reproduce this notebook, got to:
+https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia/download
+
+Download the dataset and extract it into this folder.
